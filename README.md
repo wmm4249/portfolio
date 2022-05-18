@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This is my first project that I have created at Fidgetech, the page gives people important information about myself and a good idea of my experience}_
+_{This is my first project that I have created at Fidgetech, the page gives people important information about myself and a good idea of my experience.}_
 
 ## License
 
