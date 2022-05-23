@@ -1,7 +1,17 @@
+h1{
+    text-align: center;
+}
+
 h2 {
     font-style: italic;
     text-align: center;
 }
+
+h3 {
+    text-align: center;
+
+}
+
 img {
     align-self: center;
     float: left;
@@ -24,3 +34,30 @@ ol {
     line-height: 30px;
 }
 
+.box1 {
+    width: 100%;
+    border: solid black;
+    border-width: 1px;
+    background-color: lightblue;
+    margin-bottom: 5px;
+  }
+
+.box2 {
+    width: 50%;
+    padding: 20px;
+    border: solid black;
+    border-width: 20px;
+    background-color: white;
+    margin-bottom: 10px;
+    float: right;
+  }
+  
+  .box3 {
+    width: 100%;
+    padding: 50px;
+    border: solid black;
+    border-width: 30px;
+    background-color: white;
+    margin-bottom: 10px;
+    float: left;
+  }
