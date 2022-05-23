@@ -19,9 +19,17 @@ _{This is my first project that I have created at Fidgetech, the page gives peop
 
 _{If you would like to give feedback on this project, feel free to email or text me with the information provided below.}_
 
+## Setup Instructions
+
+_{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.}_
+
+## Known Bugs
+
+_{There are currently no known bugs at this time.}_
+
 ## Contact Information
 
-_{Wmarsmccullough@gmail.com
-  206-966-0059}_
+_{fauxaddress@phonymail.com
+  503-555-6277}_
 
 Copyright (c) 2022 Mars McCullough

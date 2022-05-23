@@ -4,13 +4,23 @@ h2 {
 }
 img {
     align-self: center;
+    float: left;
 }
 
 p {
     font-family: sans-serif;
+    font-size: medium
 }
   
 ul {
+    font-family: sans-serif;
     font-size: 20px;
     line-height: 30px;
 }
+
+ol {
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
