@@ -19,7 +19,7 @@ img {
 
 p {
     font-family: sans-serif;
-    font-size: medium
+    font-size: large;
 }
   
 ul {
@@ -43,8 +43,8 @@ ol {
   }
 
 .box2 {
-    width: 50%;
-    padding: 20px;
+    width: 55%;
+    padding: 30px;
     border: solid black;
     border-width: 20px;
     background-color: white;
@@ -52,12 +52,16 @@ ol {
     float: right;
   }
   
-  .box3 {
+.box3 {
     width: 100%;
     padding: 50px;
     border: solid black;
     border-width: 30px;
     background-color: white;
     margin-bottom: 10px;
-    float: left;
+    float: right;
   }
+  
+.highlight {
+    color: blue;
+}
