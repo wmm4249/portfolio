@@ -1,8 +1,8 @@
-# _{My First Independent Project}_
+# _My First Independent Project_
 
 #### By _**Mars McCullough**_
 
-#### _{Created for my Fidgetech Class}_
+#### _Created for my Fidgetech Class_
 
 ## Technologies Used
 
