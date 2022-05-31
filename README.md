@@ -4,6 +4,10 @@
 
 #### _Created for my Fidgetech Class_
 
+## URL
+
+* https://github.com/wmm4249/portfolio
+
 ## Technologies Used
 
 * HTML
@@ -21,7 +25,7 @@ _If you would like to give feedback on this project, feel free to email or text 
 
 ## Setup Instructions
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum._
+_To view the project in your own personal browser, use Git Bash and Visual Studio Code once they are installed on your computer. The first step would be to create a directory through Git Bash, and create a HTML file through a touch command, and then type "code ." to open Visual Studio Code. Once this is open, simply copy and paste the HTML from the GitHub repository and save. Finally, go to the directory folder, and click on the HTML file. This should open the project and display like a website that you would see live on the internet._
 
 ## Known Bugs
 
