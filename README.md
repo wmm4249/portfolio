@@ -6,7 +6,7 @@
 
 ## URL
 
-* https://github.com/wmm4249/portfolio
+* https://wmm4249.github.io/portfolio/
 
 ## Technologies Used
 
